@@ -1,5 +1,4 @@
-use core::num;
-use std::{fmt, io};
+use std::io;
 
 struct ToDoItem{
     id:u64,
